@@ -1,0 +1,26 @@
+entry_id,employee,department,vendor,category,amount,date,has_receipt,notes
+E001,Jordan Pace,Sales,Delta Airlines,Travel,412.50,2026-06-01,TRUE,Flight to client site - pre-approved
+E002,Jordan Pace,Sales,Marriott Hotels,Travel,298.00,2026-06-01,TRUE,2 nights client visit
+E003,Jordan Pace,Sales,The Capital Grille,Meals,168.40,2026-06-02,TRUE,Client dinner - exceeds $75 meal limit
+E004,Priya Nair,Engineering,Amazon Web Services,Software,1200.00,2026-06-02,TRUE,Monthly cloud infra
+E005,Priya Nair,Engineering,Staples,Office Supplies,42.10,2026-06-03,TRUE,Monitor stand and cables
+E006,Sam Whitfield,Marketing,Facebook Ads,Advertising,2500.00,2026-06-03,TRUE,Q3 campaign boost
+E007,Sam Whitfield,Marketing,Facebook Ads,Advertising,2500.00,2026-06-03,TRUE,Q3 campaign boost
+E008,Lena Brooks,Finance,Uber,Travel,24.75,2026-06-04,TRUE,Airport transfer
+E009,Lena Brooks,Finance,Best Buy,Personal,389.99,2026-06-04,FALSE,Noise cancelling headphones
+E010,Marcus Chen,Sales,Southwest Airlines,Travel,210.00,2026-06-05,TRUE,Flight to conference
+E011,Marcus Chen,Sales,Hilton Hotels,Travel,499.99,2026-06-05,FALSE,3 nights conference - just under $500 threshold
+E012,Marcus Chen,Sales,Hilton Hotels,Travel,499.99,2026-06-05,FALSE,3 nights conference - just under $500 threshold
+E013,Priya Nair,Engineering,GitHub,Software,499.00,2026-06-06,TRUE,Org plan renewal - just under $500 threshold
+E014,Sam Whitfield,Marketing,Canva,Software,12.99,2026-06-06,TRUE,Design subscription
+E015,Lena Brooks,Finance,Delta Airlines,Travel,412.50,2026-06-07,TRUE,Flight to audit site
+E016,Jordan Pace,Sales,Olive Garden,Meals,38.50,2026-06-07,TRUE,Solo lunch while traveling
+E017,Marcus Chen,Sales,Steakhouse 21,Meals,225.00,2026-06-08,TRUE,Team dinner with prospect - exceeds limit
+E018,Priya Nair,Engineering,Datadog,Software,899.00,2026-06-08,TRUE,Monitoring tools
+E019,Sam Whitfield,Marketing,Spotify,Personal,9.99,2026-06-09,FALSE,Personal subscription mischarged to company card
+E020,Lena Brooks,Finance,Office Depot,Office Supplies,55.20,2026-06-09,TRUE,Printer paper and toner
+E021,Jordan Pace,Sales,United Airlines,Travel,389.00,2026-06-10,TRUE,Flight - no pre-approval on file
+E022,Marcus Chen,Sales,Apple Store,Personal,1299.00,2026-06-10,FALSE,iPad Pro - not a sales expense category
+E023,Priya Nair,Engineering,JetBrains,Software,199.00,2026-06-11,TRUE,IDE license renewal
+E024,Sam Whitfield,Marketing,Mailchimp,Software,300.00,2026-06-11,TRUE,Email campaign tool
+E025,Lena Brooks,Finance,Delta Airlines,Travel,412.50,2026-06-07,TRUE,Flight to audit site

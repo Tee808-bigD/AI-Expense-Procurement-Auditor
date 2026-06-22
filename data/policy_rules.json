@@ -1,0 +1,16 @@
+{
+  "meal_limit_per_entry": 75.00,
+  "approval_required_above": 500.00,
+  "near_threshold_buffer": 5.00,
+  "disallowed_categories": ["Personal"],
+  "receipt_required_above": 25.00,
+  "duplicate_match_fields": ["employee", "vendor", "amount", "date"],
+  "rules_description": {
+    "meal_limit_per_entry": "Single meal expenses above this amount require pre-approval and should be flagged.",
+    "approval_required_above": "Any single expense above this amount requires documented pre-approval.",
+    "near_threshold_buffer": "Flag expenses within this dollar amount below the approval threshold as a potential structuring/avoidance pattern.",
+    "disallowed_categories": "Expense categories that should never be reimbursed via corporate card.",
+    "receipt_required_above": "Expenses above this amount must have a receipt attached.",
+    "duplicate_match_fields": "Fields used to detect duplicate submissions of the same expense."
+  }
+}
